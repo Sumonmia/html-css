@@ -1,0 +1,22 @@
+body{
+    background: #e9ecf1;
+}
+h1{
+    background: #5e81c5;
+    font-size: 30px;
+    text-align: center;
+}
+
+li{
+    padding: 10px;
+    
+}
+form{
+    text-align: center;
+    background: #fff;
+    
+}
+label, name{
+    padding: 2px;
+    padding-top: 5px;
+}
